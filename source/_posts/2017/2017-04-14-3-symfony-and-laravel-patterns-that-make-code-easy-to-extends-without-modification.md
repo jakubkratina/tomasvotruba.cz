@@ -14,7 +14,7 @@ lang: en
 
 There is a big mind-shift from closed-source to open-source. To make it really work, you need to move from *my ego first* to *other people's feelings first*.
 
-It is like building Matrix open to everybody. **You have to predict future and unexpected use cases**. Your code have to be **extendable without making any changes in it**.
+It is like building Matrix open to everybody. **You have to predict future and unexpected use cases**. Your code has to be **extendable without making any changes in it**.
 
 ### "Opened for Extension, Closed for Modification"
 
